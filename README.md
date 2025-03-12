@@ -51,6 +51,3 @@ SNR: 2 dB, BER: 0.152
 - Implement different constraint lengths and generator polynomials.
 - Optimize Viterbi decoding for better performance.
 - Add visualization tools for BER analysis.
-
-## License
-This project is open-source under the MIT License.
